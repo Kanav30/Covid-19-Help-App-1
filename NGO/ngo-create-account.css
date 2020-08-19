@@ -1,0 +1,95 @@
+body{
+    background-color: #1B262C;
+}
+h2{
+    color: #3cffdf;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 34px;    
+    width: 900px;
+    position: relative;
+    left: 470px;
+}
+
+.Username h3{
+    color: #ffffff;
+    font-size: 30px;
+    width: 200px;
+    position: relative;
+    left: 600px;
+    top: 30px;
+}
+.Username input{
+    font-size: 30px;
+    width: 400px;
+    position: relative;
+    left: 500px;
+    top: 20px;
+}
+
+.Email h3{
+    color: #ffffff;
+    font-size: 30px;
+    width: 150px;
+    position: relative;
+    left: 600px;
+    top: 20px; 
+}
+.Email input{
+    font-size: 30px;
+    width: 400px;
+    position: relative;
+    left: 500px;
+    top: 10px;
+}
+hr{
+    height: 10px;
+    width:1510px;
+    border: #030F4F;
+    background-color: #030F4F;
+    position: relative;
+    top: 40px;
+    left: -15px;
+}
+
+.password h3{
+    color: #ffffff;
+    font-size: 30px;
+    width: 150px;
+    position: relative;
+    left: 600px;
+    top: 20px; 
+}
+.password input{
+    font-size: 30px;
+    width: 400px;
+    position: relative;
+    left: 500px;
+    top: 10px;
+}
+
+.confirm_password h3{
+    color: #ffffff;
+    font-size: 30px;
+    width: 300px;
+    position: relative;
+    left: 600px;
+    top: 20px; 
+}
+.confirm_password input{
+    font-size: 30px;
+    width: 400px;
+    position: relative;
+    left: 500px;
+    top: 10px;
+}
+
+button{
+    color: white;
+    background-color: #1B262C;
+    border: #1B262C;
+    width: 200px;
+    font-size: 100px;
+    position: relative;
+    top: 90px;
+    left: 1000px;
+}

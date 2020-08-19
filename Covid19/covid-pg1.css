@@ -1,0 +1,41 @@
+body{
+    background-color: #1B262C;
+}
+h2{
+    color: #1db0ff;
+    padding-left: 350px;
+}
+.doctor button{
+    border: dashed;
+    border-radius: 150px;
+    background-color: black;
+    color:rgb(64, 201, 255);
+    width: 230px;
+    height:100px;
+    font-size: 30px;
+    position: relative;
+    top: 100px;
+    left: 350px
+}
+.ngo button{
+    border: dashed;
+    border-radius: 150px;
+    background-color: black;
+    color:rgb(238, 255, 0);
+    width: 230px;
+    height:120px;
+    font-size: 30px;
+    position: relative;
+    top: 5px;
+    left: 700px
+}
+p{
+    color: rgb(245, 255, 109);
+    width:500px;
+    height: 90px;
+    position: relative;
+    top: 70px;
+    left: 400px;
+    font-size: 32px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

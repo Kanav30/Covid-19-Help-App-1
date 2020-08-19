@@ -1,0 +1,68 @@
+body{
+    background-color: #1B262C;
+}
+h2{
+    width: 1340px;
+    color: #fbfd8a;
+    font-size: 38px;
+    font-weight: bolder;
+    position: relative;
+    left: 170px;
+}
+
+.order1 h4{
+  color: #ffffff;   
+    width: 300px;
+    height: 80px;
+    font-size: 30px;
+    position: relative;
+    bottom: 80px;
+    left: 600px;
+}
+.order1 input,label{
+    font-size: 20px;
+    color: rgb(255, 220, 103);
+    position: relative;
+    bottom: 100px;
+    left: 500px;
+}
+.order1 input{ 
+    background-color: black;
+}
+
+
+.footer h2{
+    width: 900px;
+    position: relative;
+    bottom: 20px;
+    left: 610px;
+    font-weight: normal;
+    font-size: 30px;
+}
+
+button{
+    border-radius: 100px;
+    background-color: rgb(207, 125, 1);
+    color: blue;
+    font-size: 50px;
+    position: relative;
+    bottom: 50px;  
+    left: 700px;
+
+}
+
+p{
+    width: 100px;
+    color: white;
+    font-size: 25px;
+    position: relative;
+    left: 800px;
+    bottom:-87px;
+}
+.order1 p {
+    width: 40px;
+    font-size: 26px;
+    position: relative;
+    left: 550px;
+    bottom: 100px;
+}

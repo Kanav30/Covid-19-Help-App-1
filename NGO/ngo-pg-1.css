@@ -1,0 +1,113 @@
+body{
+    background-color: #1B262C;
+}
+h2{
+    color: white;
+    width: 260px;
+    font-size: 40px;
+    position: relative;
+    top: 15px;
+    left: 450px;
+}
+.description{
+    border: solid;
+    width: 800px;
+    height: 200px;
+    color: orange;
+}
+.description h3{
+    position: relative;
+    left: 10px;
+    font-size: 25px;    
+}
+.order{
+    border: solid;
+    width: 690px;
+    height: 200px;
+    color: orange;
+    position: relative;
+    left: 810px;
+    bottom: 205px;
+}
+.order h3{
+    position: relative;
+    left: 10px;
+    font-size: 25px;    
+}
+.order button{
+    font-size: 30px;
+    background-color: white;
+    position: relative;
+    left: 530px;
+    top: 10px;
+}
+
+.description1{
+    border: solid;
+    width: 800px;
+    height: 200px;
+    color: orange;
+    position: relative;
+    bottom: 160px;
+}
+.description1 h3{
+    position: relative;
+    left: 10px;
+    font-size: 25px;    
+}
+.order1{
+    border: solid;
+    width: 690px;
+    height: 200px;
+    color: orange;
+    position: relative;
+    left: 810px;
+    bottom: 365px;
+}
+.order1 h3{
+    position: relative;
+    left: 10px;
+    font-size: 25px;    
+}
+.order1 button{
+    font-size: 30px;
+    background-color: white;
+    position: relative;
+    left: 530px;
+    top: -50px;
+}
+
+.description2{
+    border: solid;
+    width: 800px;
+    height: 200px;
+    color: orange;
+    position: relative;
+    bottom: 320px;
+}
+.description2 h3{
+    position: relative;
+    left: 10px;
+    font-size: 25px;    
+}
+.order2{
+    border: solid;
+    width: 690px;
+    height: 200px;
+    color: orange;
+    position: relative;
+    left: 810px;
+    bottom: 525px;
+}
+.order2 h3{
+    position: relative;
+    left: 10px;
+    font-size: 25px;    
+}
+.order2 button{
+    font-size: 30px;
+    background-color: white;
+    position: relative;
+    left: 530px;
+    top: -20px;
+}

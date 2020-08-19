@@ -1,0 +1,22 @@
+body{
+    background-color: #1B262C;
+}
+
+
+.box{
+    border:10px solid black;
+    background-color: white;
+    width:700px;
+    height:400px;
+}
+input{
+    font-size: 15px;;
+    width: 640px;
+    height:70px;
+}
+button{
+    height: 70px;
+    width:70px;
+    background-color: orange;
+    font-size: 22px;
+}

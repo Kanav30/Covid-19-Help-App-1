@@ -1,0 +1,18 @@
+body{
+    background-color: #1B262C;
+}
+h2{
+    color: #86d5ff;
+    padding-left: 250px;
+    font-size: 30px;
+}
+button{
+    font-size: 20px;
+    width: 300px;
+    background-color: whitesmoke;
+    border: solid;  
+    position: relative;
+    left: 280px;
+    top:20px;
+
+}
